@@ -58,6 +58,8 @@ Components are the primary in game objects that can be used for building with [[
 
 [[Tripwire]]
 
+[[Dart Shooter]] (Needs image)
+
 ### Manifest Components
 
 [[Diode]]
