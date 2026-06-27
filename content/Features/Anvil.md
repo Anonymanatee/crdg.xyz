@@ -55,3 +55,21 @@ Anvil recipes:
 
 **Diamond Drill**
 > `diamond + drill`
+
+**Explosive Cannon Shell**
+> `Jerry Can + Straight Pipe`
+
+**AP Cannon Shell**
+> `Jerry can + Straight pipe + Gun`
+
+**Sawblade**
+> `Bearing + Sharpening Stone (found in gas station side room)`
+
+**Duck rod** (not sure if this is true)
+> `Fished Duck + Fishing rod`
+
+**Sniper Rifle**
+> `Unsure of recipe`
+
+**Combat Knife**
+> `Unsure of recipe`
