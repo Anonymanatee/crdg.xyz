@@ -73,3 +73,5 @@ Anvil recipes:
 
 **Combat Knife**
 > `Unsure of recipe`
+
+(from what ive learned the combat knife is an admin only item) 
