@@ -72,6 +72,6 @@ Anvil recipes:
 > `Gun + Dart Shooter + Lens`
 
 **Combat Knife**
-> `Unsure of recipe`
+> `potenially sniper + knife or snipers recipe + knife`
 
-(from what ive learned the combat knife is an admin only item)  
+(new info leads me to believe combat knife is only avaible attached to the sniper rifle as a bayonet, and it would be sniper + knife or snipers recipe + knife)  
