@@ -62,6 +62,8 @@ Components are the primary in game objects that can be used for building with [[
 
 [[Fuse]]
 
+[[Dart Shooter]]
+
 ### Manifest Components
 
 [[Diode]]
