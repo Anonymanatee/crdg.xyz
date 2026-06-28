@@ -69,7 +69,7 @@ Anvil recipes:
 > `Fished Duck + Fishing rod`
 
 **Sniper Rifle**
-> `Unsure of recipe`
+> `Gun + Dart Shooter + Lens`
 
 **Combat Knife**
 > `Unsure of recipe`
