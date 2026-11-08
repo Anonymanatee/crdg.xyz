@@ -8,7 +8,7 @@ tags:
 
 The beehive is a natural object in CRDG. It is a sphere with a decal of
 bee honeycomb pasted on each side, with bees swirling around it.
-
+b
 ## Function
 
 If hit quickly, the beehive will fall off of where it is hanging and
