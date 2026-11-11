@@ -8,11 +8,10 @@ tags:
 
 The beehive is a natural object in CRDG. It is a sphere with a decal of
 bee honeycomb pasted on each side, with bees swirling around it.
-b
 ## Function
 
 If hit quickly, the beehive will fall off of where it is hanging and
-onto the ground. If hit more it will eventually break into 1-3
+onto the ground. If hit more it will eventually break into 1-12
 [[Honeycomb|honeycombs]] used in beekeeping, and
 releasing the bees. The bees will attack and usually kill everyone
 around before flying into the frames, which are now safe to use. The bee
