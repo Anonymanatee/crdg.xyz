@@ -6,7 +6,7 @@ class: fish
 image: "[[Squid.png]]"
 rarity: Epic
 acquisition: Fishable
-usage:
+usage: "- Obtaining Ambergris"
 dateAdded:
 ---
 

@@ -48,7 +48,7 @@ Fishing requires [[Fishing Rods|Fishing Rods]] that can be found around the [[co
 #### Casting:
 Fishing Rods are casted when the Hook on the rod is moving at a fast enough speed, meaning you can flick the rod quickly to cast if you're not using a Fisher. once you cast the Fishing Rod the line will extend very far and the Hook will launch in the direction the Handle of the Fishing Rod was moving. after casting, the Reel on the Fishing Rod will spin for about 8 seconds.
 #### Catching:
-Once the Reel stops spinning the Fishing Rod will begin to wait for a catch if the Hook is at a far enough distance below the Handle, this means you can split the end of the Rod from the Handle and put the Handle at a high point of the Map to catch Fish on land. when the Fishing Rod catches a Fish the Reel will begin to spin and a signal will be emitted from the Handle that can activate [[Components]]. 
+Once the Reel stops spinning the Fishing Rod will begin to wait for a catch if the Hook is at a far enough distance below the Handle, this means you can split the end of the Rod from the Handle and put the Handle at a high point of the Map to catch Fish on land. when the Fishing Rod catches a Fish the Reel will begin to spin and a signal will be emitted from the Handle that can activate [[docs/tags/component|Components]]. (Sidenote, if the water is chummed, it increases luck)
 #### Reeling:
 Fishing Rods can be Reeled in at any time by simply moving the Handle at a fast enough speed. when Reeled in fully, any Fishes on the Hook will be dropped and the Fishing Rod will emit a signal through the Handle if a Fish was dropped.
 
@@ -169,7 +169,7 @@ Very rare, they are all very large. Some of them have special abilities.
 - Pteraspis
 - Bowhead Whale
 - Brydes Whale
-- Cachalot Whale
+- [[Cachalot Whale]]
 - Liopluerodon
 - Shonisaurus
 
@@ -178,7 +178,7 @@ Very rare, they are all very large. Some of them have special abilities.
 
 Very rare, obtainable but most players will never see them.
 
-- Baliosaurus
+- Basilosaurus
 - Bloop
 - Cart Fish
 - [[Fur bearing trout]] *(winter Exclusive)*

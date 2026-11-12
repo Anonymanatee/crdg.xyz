@@ -3,10 +3,10 @@ tags:
   - needs-work/ai-migration
   - fish/fishable/mythical
 class: fish
-image:
-rarity: Mythical
+image: "[[Poseidon.png]]"
+rarity: Mythical (Exotic in private servers)
 acquisition: Fishable
-usage:
+usage: "[[Troutstanding Catch]]"
 dateAdded:
 ---
 
